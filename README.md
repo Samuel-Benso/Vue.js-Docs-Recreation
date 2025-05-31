@@ -1,7 +1,7 @@
 # Vue.js-Docs-Recreation
 ````
 
-**This project was created as part of the Technical Writing Mentorship Programme to practice and test my knowledge of using static site generators—specifically Astro Starlight.**
+This project was created as part of the Technical Writing Mentorship Programme to practice and test my knowledge of using static site generators—specifically Astro Starlight.
 
 Welcome to the Vue documentation repository!  
 This repo hosts the source files for the Vue.js documentation website.
