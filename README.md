@@ -1,5 +1,5 @@
 # Vue.js-Docs-Recreation
-````markdown
+````
 
 **This project was created as part of the Technical Writing Mentorship Programme to practice and test my knowledge of using static site generators — specifically Astro Starlight.**
 
@@ -44,15 +44,5 @@ To build and preview the documentation locally:
 
 Make your changes in the source files, commit, and push to update the live site.
 
-## Contributing
 
-Contributions and suggestions are welcome! Please open issues or submit pull requests to improve the documentation.
-
-## License
-
-Specify your license here (e.g., MIT License).
-
----
-
-Thank you for helping improve the Vue documentation! 
 
