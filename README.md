@@ -12,7 +12,7 @@ This project contains all the markdown files, assets, and configuration used to 
 
 ## How to Use
 
-- **View the documentation**: The site is hosted live via [GitHub Pages](https://your-username.github.io/your-repo-name/)  
+- **View the documentation**: The site is hosted live via [Vercel](https://vue-js-docs-recreation-88o3.vercel.app/)  
 - **Edit the docs**: Clone this repo locally, make your changes, and push updates. The hosted site will update automatically on the next deployment.
 
 ## Development
