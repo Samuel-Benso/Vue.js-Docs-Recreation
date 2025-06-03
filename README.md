@@ -1,5 +1,4 @@
 # Vue.js-Docs-Recreation
-````
 
 This project was created as part of the Technical Writing Mentorship Programme to practice and test my knowledge of using static site generators—specifically Astro Starlight.
 
@@ -22,27 +21,3 @@ To build and preview the documentation locally:
 1. Clone this repository:  
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
-````
-
-2. Navigate into the project folder:
-
-   ```bash
-   cd your-repo-name
-   ```
-
-3. Install dependencies (if any):
-
-   ```bash
-   npm install
-   ```
-
-4. Start the local server to preview changes:
-
-   ```bash
-   npm run serve
-   ```
-
-Make your changes in the source files, commit, and push to update the live site.
-
-
-
